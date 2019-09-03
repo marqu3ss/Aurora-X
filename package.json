@@ -1,0 +1,21 @@
+{
+    "name": "material-aurora-x",
+    "displayName": "Material Aurora X",
+    "description": "Sick theme dudes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Aurora X",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Aurora X-color-theme.json"
+            }
+        ]
+    }
+}
