@@ -1,7 +1,7 @@
 {
     "name": "aurora-x",
     "displayName": "Aurora X",
-    "description": "Sick theme dudes",
+    "description": "Minimalistic looking based on Material Theme",
     "version": "0.0.1",
     "publisher": "marqu3s",
     "engines": {
@@ -18,5 +18,12 @@
                 "path": "./themes/Aurora X-color-theme.json"
             }
         ]
+    },
+    "keywords": ["Aurora", "dark", "material", "theme", "minimalistic"],
+    "license": "MIT",
+    "maintainers": ["Alvaro Marques <marquesramosalvaro@icloud.com>"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/marqu3s10/Aurora-X.git"
     }
 }
