@@ -2,6 +2,7 @@
     "name": "aurora-x",
     "displayName": "Aurora X",
     "description": "Minimalistic looking based on Material Theme",
+    "icon": "images/aurora-X.png",
     "version": "0.0.1",
     "publisher": "marqu3s",
     "engines": {
