@@ -9,6 +9,9 @@
 		"activityBarBadge.background": "#86A5FF",
 		"activityBarBadge.foreground": "#07090F",
 
+		"badge.background": "#86A5FF",
+		"badge.foreground": "#07090F",
+
 		"breadcrumb.activeSelectionForeground": "#86A5FF",
 		"breadcrumb.focusForeground": "#516399",
 		"breadcrumb.foreground": "#516399a6",
@@ -93,6 +96,9 @@
 		"tab.inactiveForeground": "#516399d8",
 
 		"textLink.foreground": "#86A5FF",
+
+		"titleBar.activeBackground": "#07090F",
+		"titleBar.activeForeground": "#516399",
 
 		"tree.indentGuidesStroke": "#516399",
 
