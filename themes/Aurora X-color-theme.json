@@ -3,8 +3,8 @@
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#07090F",
-		"activityBar.foreground": "#516399", 
-		"activityBar.inactiveForeground": "#262E47", 
+		"activityBar.foreground": "#86A5FF", 
+		"activityBar.inactiveForeground": "#516399c5", 
 
 		"activityBarBadge.background": "#86A5FF",
 		"activityBarBadge.foreground": "#07090F",
@@ -33,10 +33,8 @@
 		"editorGroup.emptyBackground": "#07090F",
 		"editorGroupHeader.tabsBackground": "#07090F",
 
-
-		"editor.findMatchBackground": "#86A5FF",
-		"editor.findMatchHighlightBackground": "#c778db",
-		"editor.findMatchBorder": "#f15f90",
+		"editor.findMatchBackground": "#516399",
+		"editor.findMatchHighlightBackground": "#262E47",
 
 		"editorLineNumber.activeForeground": "#516399d8",
 		"editorLineNumber.foreground": "#262e47bb",
@@ -44,7 +42,6 @@
 		"editorCursor.foreground": "#86A5FF",
 
 		"editor.selectionBackground": "#262E47",
-		"editor.selectionHighlightBorder": "#ff0000",
 		"editor.inactiveSelectionBackground": "#15182B",
 		"editor.selectionHighlightBackground": "#262E47",
 
