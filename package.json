@@ -2,6 +2,7 @@
     "name": "aurora-x",
     "displayName": "Aurora X",
     "description": "Minimalistic looking based on Material Theme",
+    "icon": "images/aurora-X.png",
     "version": "0.0.2",
     "publisher": "marqu3s",
     "engines": {
@@ -19,13 +20,7 @@
             }
         ]
     },
-    "keywords": [
-        "Aurora",
-        "dark",
-        "material",
-        "theme",
-        "minimalistic"
-    ],
+    "keywords": ["aurora", "dark", "material", "theme", "flat"],
     "license": "MIT",
     "maintainers": [
         "Alvaro Marques <marquesramosalvaro@icloud.com>"
