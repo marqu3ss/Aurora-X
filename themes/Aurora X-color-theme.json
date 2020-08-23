@@ -78,7 +78,7 @@
     "notificationCenterHeader.background": "#15182B",
     "notifications.background": "#15182B",
 
-    "panel.border": "#07090F",
+    "panel.border": "#15182B",
     "panelTitle.activeBorder": "#86A5FF",
     "panelTitle.activeForeground": "#C7D5FF",
 
@@ -90,6 +90,7 @@
     "selection.background": "#86A5FF",
 
     "sideBar.background": "#07090F",
+    "sideBar.border": "#15182B",
     "sideBarSectionHeader.background": "#07090F",
     "sideBarSectionHeader.foreground": "#576daf",
 
