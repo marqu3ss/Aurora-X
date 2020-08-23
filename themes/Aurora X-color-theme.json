@@ -72,6 +72,9 @@
     "list.errorForeground": "#dd5074",
     "list.warningForeground": "#e6db7f",
 
+    "input.background": "#262E47",
+    "input.foreground": "#86A5FF",
+
     "notificationCenterHeader.background": "#15182B",
     "notifications.background": "#15182B",
 
