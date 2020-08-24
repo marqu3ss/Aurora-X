@@ -141,7 +141,9 @@
 
     "textLink.foreground": "#86A5FF",
 
-    "titleBar.activeForeground": "#576daf",
+    "titleBar.activeBackground": "#07090F",
+    "titleBar.inactiveBackground": "#07090F",
+    "titleBar.activeForeground": "#86A5FF",
 
     "tree.indentGuidesStroke": "#576daf",
 
