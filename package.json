@@ -3,7 +3,7 @@
     "displayName": "Aurora X",
     "description": "Minimalistic looking based on Material Theme",
     "icon": "images/icon.png",
-    "version": "1.0.0",
+    "version": "2.0.1",
     "publisher": "marqu3s",
     "engines": {
         "vscode": "^1.37.0"
