@@ -2,6 +2,12 @@
   "name": "Aurora X",
   "type": "dark",
   "colors": {
+
+
+    /* Base Colors */
+
+    "icon.foreground": "#576daf",
+
     "activityBar.background": "#07090F",
     "activityBar.foreground": "#86A5FF",
     "activityBar.inactiveForeground": "#576dafc5",
@@ -21,6 +27,10 @@
     "button.foreground": "#07090F",
     "button.hoverBackground": "#A8BEFF",
 
+    "diffEditor.insertedTextBackground": "#64d3892c",
+    "diffEditor.removedTextBackground": "#dd50742c",
+    "diffEditor.diagonalFill": "#15182B",
+
     "descriptionForeground": "#576daf79",
 
     "dropdown.background": "#15182B",
@@ -32,6 +42,7 @@
 
     "editorGroup.background": "#07090F",
     "editorGroup.border": "#15182B",
+
     "editorGroup.dropBackground": "#0C0E19",
     "editorGroup.emptyBackground": "#07090F",
     "editorGroupHeader.tabsBackground": "#07090F",
@@ -45,16 +56,21 @@
     "editorCursor.foreground": "#86A5FF",
 
     "editor.selectionBackground": "#262E47",
-    "editor.inactiveSelectionBackground": "#15182B",
+    "editor.inactiveSelectionBackground": "#262e47be",
     "editor.selectionHighlightBackground": "#262E47",
 
     "editor.wordHighlightBackground": "#262E47",
     "editor.wordHighlightStrongBackground": "#262E47",
 
+    "editorWidget.background": "#15182B",
+    "editorWidget.border": "#576daf",
+
+    "extensionButton.prominentBackground": "#C7D5FF",
+    "extensionButton.prominentForeground": "#07090F",
     "focusBorder": "#262E47",
     "foreground": "#576daf",
 
-    "gitDecoration.addedResourceForeground": "#7ae09ce0",
+    "gitDecoration.addedResourceForeground": "#64d389fd",
     "gitDecoration.deletedResourceForeground": "#dd5074",
     "gitDecoration.ignoredResourceForeground": "#576daf90",
     "gitDecoration.modifiedResourceForeground": "#c778db",
@@ -64,16 +80,26 @@
     "list.activeSelectionForeground": "#86A5FF",
     "list.hoverBackground": "#000000",
     "list.hoverForeground": "#A8BEFF",
+    "list.focusBackground": "#01030b",
+    "list.focusForeground": "#86A5FF",
+    "list.inactiveFocusBackground": "#01030b",
     "list.inactiveSelectionBackground": "#000000",
     "list.inactiveSelectionForeground": "#86A5FF",
 
+    "list.highlightForeground":"#A8BEFF",
     "list.dropBackground": "#000000",
 
     "list.errorForeground": "#dd5074",
     "list.warningForeground": "#e6db7f",
 
-    "input.background": "#262E47",
+    "input.background": "#15182B",
     "input.foreground": "#86A5FF",
+    "inputOption.activeForeground": "#86A5FF",
+    "inputValidation.errorBackground": "#dd5073",
+    "inputValidation.errorBorder": "#dd5073",
+    "inputValidation.errorForeground": "#07090F",
+
+    "quickInput.background": "#0C0E19",
 
     "notificationCenterHeader.background": "#15182B",
     "notifications.background": "#15182B",
@@ -81,21 +107,25 @@
     "panel.border": "#15182B",
     "panelTitle.activeBorder": "#86A5FF",
     "panelTitle.activeForeground": "#C7D5FF",
+    "panelTitle.inactiveForeground": "#576daf",
+
+    "peekViewTitle.background": "#262E47",
 
     "scrollbar.shadow": "#01030b",
     "scrollbarSlider.activeBackground": "#576daf",
     "scrollbarSlider.background": "#262E47",
-    "scrollbarSlider.hoverBackground": "#15182B",
+    "scrollbarSlider.hoverBackground": "#576daf",
 
-    "selection.background": "#86A5FF",
+    "selection.background": "#01030b",
 
     "sideBar.background": "#07090F",
     "sideBar.border": "#15182B",
     "sideBarSectionHeader.background": "#07090F",
-    "sideBarSectionHeader.foreground": "#576daf",
+    "sideBarSectionHeader.foreground": "#86A5FF",
 
     "statusBar.background": "#86A5FF",
     "statusBar.foreground": "#07090F",
+    "statusBar.debuggingBackground": "#c778db",
 
     "tab.activeBackground": "#07090F",
     "tab.activeBorder": "#86A5FF",
@@ -104,9 +134,13 @@
     "tab.inactiveBackground": "#07090F",
     "tab.inactiveForeground": "#576dafd8",
 
+    "terminal.foreground": "#A8BEFF",
+    "terminal.ansiRed": "#dd5073",
+    "terminal.ansiBrightRed": "#dd5073",
+    "terminal.ansiGreen": "#63eb90",
+
     "textLink.foreground": "#86A5FF",
 
-    "titleBar.activeBackground": "#07090F",
     "titleBar.activeForeground": "#576daf",
 
     "tree.indentGuidesStroke": "#576daf",
